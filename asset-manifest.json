@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/Scrimba-react-solo-project2/static/css/main.998257de.css",
-    "main.js": "/Scrimba-react-solo-project2/static/js/main.398e28c4.js",
-    "static/js/787.e463a397.chunk.js": "/Scrimba-react-solo-project2/static/js/787.e463a397.chunk.js",
-    "static/media/logo.svg": "/Scrimba-react-solo-project2/static/media/logo.10ddb4ca94ecf3a9f9b4a03e41ebeb6e.svg",
-    "index.html": "/Scrimba-react-solo-project2/index.html",
-    "main.998257de.css.map": "/Scrimba-react-solo-project2/static/css/main.998257de.css.map",
-    "main.398e28c4.js.map": "/Scrimba-react-solo-project2/static/js/main.398e28c4.js.map",
-    "787.e463a397.chunk.js.map": "/Scrimba-react-solo-project2/static/js/787.e463a397.chunk.js.map"
+    "main.css": "/tenzies-app/static/css/main.8b934c33.css",
+    "main.js": "/tenzies-app/static/js/main.38d221b7.js",
+    "static/js/787.95be86fb.chunk.js": "/tenzies-app/static/js/787.95be86fb.chunk.js",
+    "index.html": "/tenzies-app/index.html",
+    "main.8b934c33.css.map": "/tenzies-app/static/css/main.8b934c33.css.map",
+    "main.38d221b7.js.map": "/tenzies-app/static/js/main.38d221b7.js.map",
+    "787.95be86fb.chunk.js.map": "/tenzies-app/static/js/787.95be86fb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.998257de.css",
-    "static/js/main.398e28c4.js"
+    "static/css/main.8b934c33.css",
+    "static/js/main.38d221b7.js"
   ]
 }
